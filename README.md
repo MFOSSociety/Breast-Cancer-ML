@@ -50,7 +50,7 @@ Support Vector Machine (SVM)
   SVM = 97.14 %
   Random Forrest = 97.14 %
  
- For having less number of false positive we should use random forrest i.e. 2 
+ For having less number of false positive we should use random forrest.
  
  # Deep Learning Model
  Keras.ipynb is application of deep learning model on Breast Cancer dataset
