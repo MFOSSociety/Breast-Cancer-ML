@@ -53,6 +53,6 @@ Support Vector Machine (SVM)
  For having less number of false positive we should use random forrest.
  
  # Deep Learning Model
- Keras.ipynb is application of deep learning model on Breast Cancer dataset
+ Keras.ipynb and better_tumor_classifier.py are application of deep learning model on Breast Cancer dataset
   
   
