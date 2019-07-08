@@ -23,13 +23,13 @@ Random Forrest  (RF)
 Support Vector Machine (SVM) 
 
 # Confusion Matrix  
-[ True Positive   False Positive
-  False Negative  True Negative]  
+  |True Positive   False Positive |
+  |False Negative  True Negative  |
   
-  True Positive  = Answer (Benign)    - Predicted (Benign)  
-  False Positive = Answer (Malignant) - Predicted (Benign)
-  False Negative = Answer (Benign)    - Predicted (Malignant)
-  True Negative  = Answer (Malignant) - Predicted (Malignant)
+  True Positive  = Answer (Benign)    - Predicted (Benign)  <br>
+  False Positive = Answer (Malignant) - Predicted (Benign)<br>
+  False Negative = Answer (Benign)    - Predicted (Malignant)<br>
+  True Negative  = Answer (Malignant) - Predicted (Malignant)<br>
   
   # Support Vector Machine (SVM)
   True Positive  = 82   
