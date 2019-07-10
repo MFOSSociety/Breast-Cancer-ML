@@ -1,6 +1,6 @@
 # BreastCancer
 The objective of these predictions is to assign patients to either a benign group that is noncancerous or a malignant group that is cancerous.
-BreastCancer.py & Keras.ipynb [ Deep Learning ]
+
 
 # Dataset
 This breast cancer database was obtained from Dr. Wolberg’s office at the University of Wisconsin
