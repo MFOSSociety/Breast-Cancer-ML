@@ -1,7 +1,6 @@
 # Support Vector Machine (SVM)
 
 # Importing the libraries
-
 import pandas as pd
 
 
@@ -9,9 +8,7 @@ import pandas as pd
 dataset = pd.read_csv('Cancer.csv')
 
 #Replacing ? value with mode of column
-x=dataset['Bare Nuclei'].mode()
-x
-dataset.replace({"?":1}, inplace=True)
+dataset.replace({"?":dataset['Bare Nuclei'].mode()}, inplace=True)
 
 
 X = dataset.iloc[:, 1:-1].values
