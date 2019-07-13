@@ -37,14 +37,13 @@ Support Vector Machine (SVM)
   False Negative = 1  
   True Negative  = 54  
   
-  SVM False Positive count i.e. predicted as having benign tumor but actually have malignant tumor = 3  
   
   # Random Forrest (RF)
    True Positive  = 83   
   False Positive = 2    
   False Negative = 2    
   True Negative  = 53  
-  RF False Positive count i.e. predicted as having benign tumor but actually have malignant tumor = 2    
+   
   
   # Accuracy
   SVM = 97.14 %
