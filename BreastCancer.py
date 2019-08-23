@@ -40,7 +40,6 @@ x=cm1.sum()
 y=cm1[0][0]+cm1[1][1]
 accuracy=y/x
 print("SVM Accuracy :",accuracy*100)
-print("SVM : predicted benign tumor but actually have malignant tumor : 3")
 
 #####################################################################
 # Fitting Random Forest Classification to the Training set
@@ -59,4 +58,4 @@ x=cm2.sum()
 y=cm2[0][0]+cm2[1][1]
 accuracy=y/x
 print("Random Forrest Accuracy :",accuracy*100)
-print("Random Forrest : predicted benign tumor but actually have malignant tumor : 2")
+
